@@ -1,0 +1,9 @@
+-install virtual env 
+  *python -m venv "nama folder"
+-instal django
+  *pip install django
+-instal project django  
+  *django-admin startproject "nama folder"]
+-run server django  
+  *manage.py runserver
+ 
